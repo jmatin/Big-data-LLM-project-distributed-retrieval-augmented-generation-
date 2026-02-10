@@ -1,4 +1,8 @@
 # Big-data-LLM-project-distributed-retrieval-augmented-generation
+
+---
+
+## Repository Structure
 ```
 ├── dataset
 │   ├── 5-nosql.pdf
@@ -61,6 +65,3 @@ This design allows the LLM to focus on **reasoning and question generation**, wh
   - **Quality** of generated exam questions (relevance, clarity).
   - **Performance and scalability** of the distributed retrieval pipeline.
 
----
-
-## Repository Structure
