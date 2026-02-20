@@ -25,7 +25,7 @@
 ## Project Overview
 
 This project was developed as part of the course  
-**INFO‑H‑515 – Big Data: Distributed Data Management and Scalable Analytics (ULB)**  
+******* – Big Data  
 for the academic year **2024–2025**.
 
 The objective is to design and implement a **Distributed Retrieval‑Augmented Generation (RAG) system**
